@@ -20,3 +20,7 @@ Here what you can do in the app:
 - Install all dependencies (`npm install`)
 - From the project root folder run `npm run serve`
 - Enjoy!
+
+## If you want run the app on browser without installation
+
+Use this [link](changeable-silk.surge.sh)
