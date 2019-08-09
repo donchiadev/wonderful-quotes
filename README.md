@@ -23,4 +23,4 @@ Here what you can do in the app:
 
 ## If you want run the app on browser without installation
 
-Use this [link](changeable-silk.surge.sh)
+Use this [link](https://changeable-silk.surge.sh)
