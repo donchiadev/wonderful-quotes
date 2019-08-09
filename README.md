@@ -2,7 +2,7 @@
 
 ## Brief Description
 
-Very small application which goal is to create and display quotes. This app is an attempt to reproduce one of the course project app made by [Maximilian Schwarzmüller](https://github.com/mschwarzmueller) in his [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/). This app was developed using **vue-cli 3.X.X** for setting up the project and a fresh knowledge about components and their ability to pass data between them.
+Very small application which goal is to create and display quotes. This app is an attempt to reproduce one of the course project app made by [Maximilian Schwarzmüller](https://github.com/mschwarzmueller) in his [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/). This app was developed using **vue-cli 3.X.X** for setting up the project and a fresh knowledge about components and their ability to pass data between them. Some vue features used in the app development:
 
 - Use of a vue istance as an event bus.
 - Use of slot feature for content placeholding.
